@@ -1,10 +1,13 @@
-# Getting Started with Create React App
+# Video Gallery app
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+3 HTML5 videos in a row with animation and autoplay on hover.
+On click opens a full YouTube video in a dialog
 
-## Available Scripts
+## React, MUI5
 
-In the project directory, you can run:
+In the project Create-react-app + Material UI 5 were used
+
+## Available scripts
 
 ### `npm start`
 
